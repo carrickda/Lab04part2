@@ -15,10 +15,12 @@ img{
     max-width: 50%;
     max-height: 50%;
     align-items: center;
+    padding-left: 200px;
 }
 p{
     text-align: center;
     padding-left: 25px;
+    padding-top: 50px;
 }
 
 a{
@@ -29,4 +31,6 @@ a{
 footer{
     color: black;
     text-decoration: none;
+    padding-left: 100px;
+    padding-top: 25px;
 }
